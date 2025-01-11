@@ -17,13 +17,45 @@ The following **required** functionality is completed:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[Guide]](https://www.loom.com/share/a381124eea6e410cb93dee5472ec944b?sid=905263d7-eb2b-46c7-bdef-fb03a3e91064) .
 
-## App Brainstorming (Step 4)
+## App Brainstorming (Step 4):
+1. Goodnotes:
+    - Ability to voice recording while taking note in class
+    - A lot of good features like customize pen/hightlight colors, podomora timer...
+2. Weather (i know it is really random):
+    - Can check everything, like wind, snow... and it is pretty accurate
+    - Cool animation with the current weather
+3. Tiktok:
+    - Can send videa and chat with friend
+    - Have a streak
+
+Some idea for my app: 
+    Shopping list management
+        Create, edit, and organize shopping lists (groceries, birthday presents, christmas,...)
+        Add links to products directly within the list (like link to the website or any other sources)
+        Attach photo for easy identification
+    Scanning
+        Scan and store expiration dates 
+        Track purchase dates for reference or warranty \
+    Planning
+        List for party with item quantities 
+        Calender 
+        Share lists with others for collaboration
+    recipe book
+        Upload and categorize recipe
+        Add tags or notes for quick retrieval
+    Notification
+        Reminders for expiration dates or upcoming event
+    Analytics
+        Track spending
+        Monthly summaries 
+
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+I am really new to this so I can't really create anythign new
 
 ## License
 
